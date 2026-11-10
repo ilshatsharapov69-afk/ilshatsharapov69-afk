@@ -23,9 +23,11 @@ process, not from the model.
 - **YouTube research scraper and analyzer.** My own replacement for a paid niche-research tool: reads
   public comment and transcript endpoints with no API key into SQLite, with filterable dashboards.
 
-These run on private code. I am glad to walk through any of them on a screen share.
+These run on private code. I am glad to walk through any of them on a screen share. The demos below are open source.
 
 ## Live demos you can try
+
+Code, tests and setup for all of them: [ai-automation-demos](https://github.com/ilshatsharapov69-afk/ai-automation-demos).
 
 | Demo | What it shows |
 |---|---|
@@ -42,6 +44,8 @@ The web demos run on Cloudflare Workers with D1 and Workers AI; the AI ones have
 
 ## Public code here
 
+- [ai-automation-demos](https://github.com/ilshatsharapov69-afk/ai-automation-demos): the demos above, plus five
+  tested Python starters (Telegram form → Google Sheets, booking bot, webhook → amoCRM / Bitrix24, parser, LLM FAQ bot).
 - [whisper-typing](https://github.com/ilshatsharapov69-afk/whisper-typing): voice typing for Windows. An
   open-source fork I extended (tray, overlay, media auto-pause, hold-to-record, history, self-recovery).
 - [crm-data-extractor](https://github.com/ilshatsharapov69-afk/crm-data-extractor): Playwright logs into a
