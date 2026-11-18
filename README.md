@@ -1,14 +1,18 @@
-# Ilshat Sharapov · AI automation engineer
+# Ilshat Sharapov · AI Engineer
+
+AI Engineer at a US B2B SaaS company (customer support platform) since September 2025: a support AI agent,
+evals in CI, HubSpot and Salesforce integrations. 10+ years building automation software, 6 years of Python,
+2+ years of LLM applications.
 
 I bring AI into how a business actually works: AI agents and LLM assistants, RAG over a company's own
 material, Telegram bots and Mini Apps, scrapers, and integrations between the tools a team already uses.
 
 I build with Claude Code in a fixed order: a plan and a spec, the agent writes the code, automated tests,
-an independent review in a fresh session, then my own acceptance. Before AI I worked in industrial
-automation and power engineering (automation cabinets, controllers, commissioning), so I start from the
-process, not from the model.
+an independent review in a fresh session, then my own acceptance. Before AI engineering I built automation
+software in industry and power engineering (PLC code, controllers, Python tools for commissioning tests and
+reports), so I start from the process, not from the model.
 
-## What I have built
+## Side projects
 
 - **AI sales assistant on the Claude API.** Answers site visitors in a chat and by email, stores every
   conversation in a database, and pings the owner in Telegram, who can take over. About 3 cents of API
@@ -34,7 +38,7 @@ Code, tests and setup for all of them: [ai-automation-demos](https://github.com/
 | [AI inbox agent](https://ai-inbox-agent-demo.sherlock753cc.workers.dev/) | An LLM sorts incoming requests and drafts a reply to each |
 | [RAG knowledge base](https://rag-knowledge-base-demo.sherlock753cc.workers.dev/) | Answers over a fictional company's documents, vector + full-text search, with citations |
 | [Print shop sales bot](https://print-shop-bot-demo.sherlock753cc.workers.dev/) | A chat bot that quotes an order and hands it to the owner (fictional shop) |
-| [Telegram FAQ and booking bot](https://t.me/shov_demo_bot) | FAQ answers, booking, and a lead card for the owner, in English and Russian |
+| [Telegram FAQ and booking bot](https://t.me/shov_demo_bot) | FAQ answers, booking, and a lead card for the owner |
 | [Telegram Mini App CRM](https://tg-crm-miniapp-demo.sherlock753cc.workers.dev/) | A sales team's lead list, statuses and funnel, in a browser sandbox |
 | [Landing page + cost quiz](https://landing-quiz-demo.sherlock753cc.workers.dev/) | A 5-step quiz that gives an estimate and sends the lead to a database and Telegram |
 | [Price monitor](https://price-monitor-demo.sherlock753cc.workers.dev/) | A scraper with a dashboard of price changes on a Worker + D1 |
@@ -45,7 +49,7 @@ The web demos run on Cloudflare Workers with D1 and Workers AI; the AI ones have
 ## Public code here
 
 - [ai-automation-demos](https://github.com/ilshatsharapov69-afk/ai-automation-demos): the demos above, plus five
-  tested Python starters (Telegram form → Google Sheets, booking bot, webhook → amoCRM / Bitrix24, parser, LLM FAQ bot).
+  tested Python starters (Telegram form → Google Sheets, booking bot, webhook → CRM, parser, LLM FAQ bot).
 - [whisper-typing](https://github.com/ilshatsharapov69-afk/whisper-typing): voice typing for Windows. An
   open-source fork I extended (tray, overlay, media auto-pause, hold-to-record, history, self-recovery).
 - [crm-data-extractor](https://github.com/ilshatsharapov69-afk/crm-data-extractor): Playwright logs into a
@@ -66,4 +70,4 @@ n8n, Make or Zapier when the team already uses them.
 Telegram [@shov69](https://t.me/shov69) · [sherlock753cc@gmail.com](mailto:sherlock753cc@gmail.com) ·
 portfolio [setpointaudit.com](https://setpointaudit.com/)
 
-Open to remote roles in AI automation and AI implementation.
+Open to AI Engineer roles: LLM agents, RAG, evals, integrations.
